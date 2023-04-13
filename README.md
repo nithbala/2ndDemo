@@ -1,5 +1,5 @@
 # 2ndDemo
-This is my 2nd Demo!
+Hey Guys, I'm gonna make some surprise to this Application!
 
 And of course, this is successfully completed, Cheers:)
 
